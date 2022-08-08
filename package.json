@@ -1,7 +1,7 @@
 {
   "name": "mi-porfolio-mvc",
   "version": "1.0.0",
-  "description": "TP11-Express-Patrones-de-Diseño-MVC",
+  "description": "TP11-Express-Patrones-de-Disenio-MVC",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
